@@ -1,4 +1,4 @@
-package Employeewageproblem;
+package com.Employeewageproblem;
 
 import java.util.Scanner;
 
