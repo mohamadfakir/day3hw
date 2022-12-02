@@ -1,4 +1,4 @@
-package linecomparisionproblem;
+package com.linecomparisionproblem;
 
 import java.util.Scanner;
 
