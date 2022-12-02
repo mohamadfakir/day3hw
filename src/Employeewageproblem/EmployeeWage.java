@@ -3,6 +3,7 @@ package com.Employeewageproblem;
 import java.util.Scanner;
 
 public class EmployeeWage {
+        
         public static void main(String[] args) {
             System.out.println("***** WELCOME TO EMPLOYEE WAGE CPMPUTATION ***** ");
             System.out.println("ENTER THE KEY VALUE \n");
